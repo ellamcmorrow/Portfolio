@@ -8,10 +8,10 @@ destinations, create a personalised day schedule of places to visit, view each p
 http://chloe.chloecoco.com/dtour/
 
 ## P5.js
-[Rose Pattern Generator](https://ellamcmorrow.github.io/p5_RoseGenerator/) <br/>
+[Rose-pattern-generator](https://ellamcmorrow.github.io/p5_RoseGenerator/) <br/>
 [Liquid](https://ellamcmorrow.github.io/liquids/index.html) <br/>
 [Acceleration](https://ellamcmorrow.github.io/acceleration-towards-mouse/) <br/>
 [Butterfly](https://ellamcmorrow.github.io/butterfly/) <br/>
-[Pixelated Text](https://ellamcmorrow.github.io/pixelated-text/index.html) <br/>
+[Pixelated-text](https://ellamcmorrow.github.io/pixelated-text/index.html) <br/>
 
 
