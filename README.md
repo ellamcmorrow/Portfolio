@@ -10,10 +10,11 @@ http://chloe.chloecoco.com/dtour/
 [Who am i ?](https://ellamcmorrow.github.io/who-am-i/)<br/>
 ***
 [Color-input](https://ellamcmorrow.github.io/color-input/)</br>
- keys 1-7 change input color of the perlin noise. </br>
- key 's' or 'S' saves the canvas an a png. </br>
- key 'w' changes the background to white.</br>
- key 'b' change background to black.</br>
+*Interactivity*
+ Keys **1-7** change input color of the perlin noise. </br>
+ Key **'s'** or **'S'** saves the canvas an a png. </br>
+ Key **'w'** changes the background to white.</br>
+ Key **'b'** change background to black.</br>
 ***
 
 [Rose-pattern-generator](https://ellamcmorrow.github.io/p5_RoseGenerator/) <br/>
