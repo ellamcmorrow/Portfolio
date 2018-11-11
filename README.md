@@ -9,7 +9,7 @@ http://chloe.chloecoco.com/dtour/
 ## P5.js
 [Who am i ?](https://ellamcmorrow.github.io/who-am-i/)<br/>
 ***
-[Color-input](https://ellamcmorrow.github.io/color-input/)
+[Color-input](https://ellamcmorrow.github.io/color-input/)</br>
  keys 1-7 change input color of the perlin noise. </br>
  key 's' or 'S' saves the canvas an a png. </br>
  key 'w' changes the background to white.</br>
