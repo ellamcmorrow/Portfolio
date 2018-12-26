@@ -3,14 +3,6 @@
 ## P5.js
 [Who am i ?](https://ellamcmorrow.github.io/who-am-i/)<br/>
 ***
-[Color-input](https://ellamcmorrow.github.io/color-input/)</br>
-**How it works:** </br>
- Keys **1-7** change the input color of the perlin noise. </br>
- Key **'s'** or **'S'** saves the canvas an a png. </br>
- Key **'w'** changes the background to white.</br>
- Key **'b'** change background to black.</br>
-***
-
 [Rose-pattern-generator](https://ellamcmorrow.github.io/p5_RoseGenerator/) <br/>
 ***
 [Liquid](https://ellamcmorrow.github.io/liquids/index.html) <br/>
