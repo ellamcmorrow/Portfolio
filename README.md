@@ -1,7 +1,7 @@
 # Portfolio
 
 ## P5.js
-[Who am i ?](https://ellamcmorrow.github.io/who-am-i/)<br/>
+
 ***
 [Rose-pattern-generator](https://ellamcmorrow.github.io/p5_RoseGenerator/) <br/>
 ***
